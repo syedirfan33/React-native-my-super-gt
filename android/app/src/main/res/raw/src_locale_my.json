@@ -1,0 +1,12 @@
+{
+  "appName": "SellerApp",
+  "displayName": "SellerApp",
+  "navigation": {
+    "home": "Home",
+    "highScores": "Login",
+    "settings": "Settings"
+  },
+  "home": {
+    "welcome": "Selamat datang di %{appName}!"
+  }
+}

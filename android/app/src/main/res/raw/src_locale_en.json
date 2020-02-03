@@ -1,0 +1,9 @@
+{
+  "appName": "Super GT Malaysia",
+  "displayName": "Super GT Malaysia",
+  "navigation": {
+    "home": "Super GT Malaysia",
+    "highScores": "Login",
+    "settings": "Settings"
+  }
+}
